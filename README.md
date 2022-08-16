@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gsiahaan
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python and Google Cloud
-- 💞️ I’m looking to collaborate on (I don't know what is this)
+- 💞️ I’m looking to collaborate on project that handle repetitive task aka automation. Why? Because we are programmer and we are lazy.
 - 📫 How to reach me? mail me at gsiahaan.gabriel@gmail.com
 
 <!---
